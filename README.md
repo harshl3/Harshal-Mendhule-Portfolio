@@ -38,20 +38,6 @@ A modern, responsive, and interactive developer portfolio built to showcase my p
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend Framework** | [React 18](https://react.dev/) |
-| **Build Tooling** | [Vite 5](https://vitejs.dev/) |
-| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) & Custom CSS Glassmorphism |
-| **Visuals & Canvas** | HTML5 Canvas Particle Network & Responsive SVG Backgrounds |
-| **Typography** | Bricolage Grotesque & DM Sans (Google Fonts) |
-| **Icons** | Custom Inline SVGs & UTF-8 Symbols |
-| **Hosting & CI/CD** | [Vercel](https://vercel.com/) |
-
----
-
 ## 📁 Project Structure
 
 ```text
