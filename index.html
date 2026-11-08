@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="theme-color" content="#eef6f4" />
+
+  <!-- Theme Detection script (avoids FOUC) -->
+  <script>
+    try {
+      const stored = localStorage.getItem("hm-theme");
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      document.documentElement.dataset.theme = stored || (prefersDark ? "dark" : "light");
+    } catch (e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  </script>
+
+  <!-- Primary Meta Tags -->
+  <title>Harshal Mendhule | Software Developer & AI Builder</title>
+  <meta name="title" content="Harshal Mendhule | Software Developer & AI Builder" />
+  <meta name="description"
+    content="Portfolio of Harshal Mendhule — B.Tech IT student building full-stack products, Java Spring Boot backends, Flutter mobile apps, and AI-powered systems." />
+  <meta name="keywords"
+    content="Harshal Mendhule, Software Developer, Java, Spring Boot, Flutter, React, AI, Machine Learning, Nagpur, Portfolio" />
+  <meta name="author" content="Harshal Mendhule" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Harshal Mendhule Portfolio" />
+  <meta property="og:title" content="Harshal Mendhule | Software Developer & AI Builder" />
+  <meta property="og:description"
+    content="Java Spring Boot backends, Flutter mobile apps (100+ Play Store downloads), and AI-powered products." />
+  <meta property="og:image" content="/harshal.jpg" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Harshal Mendhule | Software Developer & AI Builder" />
+  <meta name="twitter:description"
+    content="Java Spring Boot backends, Flutter mobile apps (100+ Play Store downloads), and AI-powered products." />
+  <meta name="twitter:image" content="/harshal.jpg" />
+
+  <!-- Performance: Preconnect to Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap"
+    rel="stylesheet" />
+
+  <!-- Structured Data (JSON-LD) for Search Engines -->
+  <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harshal Mendhule",
+        "jobTitle": "Software Developer",
+        "description": "Java and full-stack developer building AI-powered apps.",
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "St. Vincent Pallotti College of Engineering & Technology, Nagpur"
+        },
+        "email": "harshalmendhule3@gmail.com",
+        "telephone": "+918766453345",
+        "sameAs": [
+          "https://github.com/harshl3",
+          "https://www.linkedin.com/in/harshal-mendhule-1a6361323",
+          "https://www.geeksforgeeks.org/profile/harshalmexrr1",
+          "https://leetcode.com/u/Harshl_3/"
+        ]
+      }
+    </script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
