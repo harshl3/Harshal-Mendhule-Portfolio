@@ -6,9 +6,7 @@ A modern, responsive, and interactive developer portfolio built to showcase my p
 
 ## 🌐 Live Portfolio
 
-> Add your deployed Vercel URL here
-
-- **Portfolio:** [`https://your-portfolio.vercel.app`](https://your-portfolio.vercel.app)
+- **Portfolio:** [`https://harshal-mendhule-portfolio.vercel.app/`](https://harshal-mendhule-portfolio.vercel.app/)
 - **Play Store App (Vidya Sathi):** [`https://play.google.com/store/apps/details?id=com.vidyasathi.app`](https://play.google.com/store/apps/details?id=com.vidyasathi.app)
 - **Mobile APKs (Google Drive):** [`https://drive.google.com/drive/folders/1Xcl7e1XHEFdmwVCqpRa3Vk6ukLzypN2Z?usp=sharing`](https://drive.google.com/drive/folders/1Xcl7e1XHEFdmwVCqpRa3Vk6ukLzypN2Z?usp=sharing)
 - **SurakshaNet Web App:** [`https://cameramapping-web.onrender.com/login`](https://cameramapping-web.onrender.com/login)
