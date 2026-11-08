@@ -36,14 +36,3 @@ A modern, responsive, and interactive developer portfolio built to showcase my p
 - 🔗 GitHub, LinkedIn and other social links
 - 📱 Mobile-friendly navigation menu
 
----
-
-
-```bash
-cd portfolio
-npx vercel
-```
-Follow the interactive prompts to deploy directly from your terminal.
-
----
-
